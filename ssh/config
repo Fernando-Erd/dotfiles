@@ -1,0 +1,5 @@
+#Github
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile /home/fernando/.ssh/id_rsa_github
